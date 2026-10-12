@@ -1,0 +1,9 @@
+# crawl databases (queue + responses can get large)
+*.db
+*.db-wal
+*.db-shm
+
+# python
+__pycache__/
+*.pyc
+.venv/
